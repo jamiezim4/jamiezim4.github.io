@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Paris Olympics ML Predictions
-    url: paris-olympics
+    url: using-machine-learning-to-predict-paris-olympics
     desc: Training ML to predict winners
     highlight: learning
 
@@ -24,23 +24,11 @@ project_entries:
     desc: Learning ML topics
     highlight: learning
 
-# old_project_entries:
-#   - title: Soopr
-#     url: https://www.soopr.co
-#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-#     highlight: NEW
-
-#   - title: Cookie
-#     url: https://github.com/abhinavs/cookie
-#     desc: An open source landing website with supporting pages and integrated blog
-
-#   - title: Moonwalk
-#     url: https://github.com/abhinavs/moonwalk
-#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-#   - title: Humangous
-#     url: https://www.humangous.co
-#     desc: The better people know you, the better they collaborate
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
 
 footer_entries:
   - title: homepage
